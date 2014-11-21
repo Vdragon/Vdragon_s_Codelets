@@ -1,3 +1,3 @@
-# Ignore Java VM bytecode
+# Git 版本控制系統版本追蹤忽略規則
+## 忽略所有 Java ByteCode 檔案
 *.class
-
