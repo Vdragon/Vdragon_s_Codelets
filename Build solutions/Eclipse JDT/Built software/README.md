@@ -1,6 +1,6 @@
-# Source code/
-此為「Vdragon's Codelets」軟體的來源程式碼目錄
+# Build solutions/Eclipse JDT/Built software
+此為「Eclipse JDT」軟體建構解決方案的建構產物目錄
 
-## 本目錄下的項目
+## 目錄下的項目說明
 ### [說明文件.md<br />README.md](README.md)
-本目錄的說明文件
+本說明文件
